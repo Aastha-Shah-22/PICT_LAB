@@ -6,3 +6,4 @@ TEsting 4: verifying signature and payload parsing and import .env
 Testing 5 : checking for all relevand payload features being extracted.fixed the github token.
 Testing6 : connect to db
 Testing7 : fixed the port...
+Testing8 : fetching commits from db.
